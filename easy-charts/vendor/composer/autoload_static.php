@@ -37,6 +37,7 @@ class ComposerStaticInita942c68b4b16789ae52160139a355c85
         'EasyCharts\\Migration\\V1Converter' => __DIR__ . '/../..' . '/inc/Migration/V1Converter.php',
         'EasyCharts\\Plugin' => __DIR__ . '/../..' . '/inc/Plugin.php',
         'EasyCharts\\PostType\\ChartPostType' => __DIR__ . '/../..' . '/inc/PostType/ChartPostType.php',
+        'EasyCharts\\Rest\\ChartPostsController' => __DIR__ . '/../..' . '/inc/Rest/ChartPostsController.php',
         'EasyCharts\\Rest\\ChartsController' => __DIR__ . '/../..' . '/inc/Rest/ChartsController.php',
         'EasyCharts\\Rest\\MigrationController' => __DIR__ . '/../..' . '/inc/Rest/MigrationController.php',
         'EasyCharts\\Service' => __DIR__ . '/../..' . '/inc/Service.php',

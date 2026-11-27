@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'kiranpotphode/easy-charts',
-        'pretty_version' => 'v2.0.0',
-        'version' => '2.0.0.0',
-        'reference' => '0ba503a60487b05fc3147f34fcfeb4285c342de7',
+        'pretty_version' => 'v2.0.1',
+        'version' => '2.0.1.0',
+        'reference' => '33e38f23c26aeea9ca0e7a40d7d0a74ce96000af',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'kiranpotphode/easy-charts' => array(
-            'pretty_version' => 'v2.0.0',
-            'version' => '2.0.0.0',
-            'reference' => '0ba503a60487b05fc3147f34fcfeb4285c342de7',
+            'pretty_version' => 'v2.0.1',
+            'version' => '2.0.1.0',
+            'reference' => '33e38f23c26aeea9ca0e7a40d7d0a74ce96000af',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

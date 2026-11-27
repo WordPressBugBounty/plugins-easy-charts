@@ -22,6 +22,7 @@ return array(
     'EasyCharts\\Migration\\V1Converter' => $baseDir . '/inc/Migration/V1Converter.php',
     'EasyCharts\\Plugin' => $baseDir . '/inc/Plugin.php',
     'EasyCharts\\PostType\\ChartPostType' => $baseDir . '/inc/PostType/ChartPostType.php',
+    'EasyCharts\\Rest\\ChartPostsController' => $baseDir . '/inc/Rest/ChartPostsController.php',
     'EasyCharts\\Rest\\ChartsController' => $baseDir . '/inc/Rest/ChartsController.php',
     'EasyCharts\\Rest\\MigrationController' => $baseDir . '/inc/Rest/MigrationController.php',
     'EasyCharts\\Service' => $baseDir . '/inc/Service.php',
